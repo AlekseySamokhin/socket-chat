@@ -1,13 +1,10 @@
 # Socket-chat
 
-## Development
-
+```
 npm install express
 npm install soket.io
-
-## Production
-
 node index.js
+```
 
 ## Run
 
