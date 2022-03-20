@@ -1,2 +1,2 @@
 npm install express 
-npm intall soket.io
+npm install soket.io
