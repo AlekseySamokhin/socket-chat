@@ -2,7 +2,7 @@
 
 ```
 npm install express
-npm install soket.io
+npm install socket.io
 node index.js
 ```
 
